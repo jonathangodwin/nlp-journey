@@ -46,8 +46,6 @@ C'est une histoire fascinante, non seulement d'un point de vue informatique, mai
 
 ## 📚 Bibliographie & Auteurs du Voyage
 
-*(À compléter au fur et à mesure de mes lectures...)*
-
 Comme dans toute dissertation, les idées ne tombent pas du ciel. Ce voyage est jalonné par les travaux de chercheuses et de chercheurs qui ont bousculé les paradigmes. Voici les "auteurs" majeurs qui seront cités tout au long de ce dépôt :
 
 - **Mikolov et al. (2013)** – *Word2Vec* : La première tentative réussie de donner une âme mathématique (géométrique) au sens des mots.
@@ -57,5 +55,5 @@ Comme dans toute dissertation, les idées ne tombent pas du ciel. Ce voyage est 
 - **Kuhn, T. (1962)** – *La Structure des révolutions scientifiques* : Pour comprendre comment toutes ces idées s'articulent et se remplacent.
 
 ### 🧠 Pour aller plus loin (Philosophie & Anthropologie)
-*(L'impact de ces technologies sur notre quotidien)*
+*A venir*
 
